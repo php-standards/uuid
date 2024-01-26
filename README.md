@@ -1,10 +1,16 @@
 # UUID (Universally Unique Identifier) interface
 
+## Installation
+
+```
+composer require psi/uuid
+```
+
 ## Specification
 
 **Status:** DRAFT
 
-### The UuidGeneratorInterface
+## The UuidGeneratorInterface
 
 #### Purpose
 
